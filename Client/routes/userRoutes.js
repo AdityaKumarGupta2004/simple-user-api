@@ -80,9 +80,9 @@ router.post("/:id", verifyToken, async (req, res) => {
 
     users.splice(index, 1);
     await saveUsers(users);
-    res.status(200).json({ message: "User deleted", users });
+    res.status(200).json({ message: "User deleted" });
   } catch {
-    res.status(500).json({ error: "Failed to delete user." });
+    res.status(500).json({ error: "Failed to delete user" });
   }
 });
 
