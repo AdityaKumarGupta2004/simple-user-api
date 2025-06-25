@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Valentine Florez",
+    "email": "vflorez0@list-manage.com",
+    "phone": 7661,
+    "address": "4 Pond Plaza",
+    "age": 96
+  },
+  {
+    "id": 2,
+    "name": "Thatch Halliday",
+    "email": "thalliday1@tuttocitta.it",
+    "phone": 332425,
+    "address": "1740 Browning Trail",
+    "age": 90
+  },
+  {
+    "id": 3,
+    "name": "Kare Astlatt",
+    "email": "kastlatt2@over-blog.com",
+    "phone": 122340,
+    "address": "5 Ruskin Center",
+    "age": 94
+  },
+  {
+    "id": 4,
+    "name": "Shelley Aldwich",
+    "email": "saldwich3@chron.com",
+    "phone": 72423,
+    "address": "2 Myrtle Alley",
+    "age": 47
+  },
+  {
+    "id": 5,
+    "name": "Ella Frick",
+    "email": "efrick4@blogs.com",
+    "phone": 23424,
+    "address": "7166 Bunting Point",
+    "age": 35
+  },
+  {
+    "id": 6,
+    "name": "Adityakg",
+    "email": "aditya@gmail.com",
+    "address": "durgapath",
+    "phone": "614662",
+    "age": "21"
+  },
+  {
+    "id": 7,
+    "name": "Adityakg1",
+    "email": "aditya@gmail.com",
+    "address": "durgapath",
+    "phone": "614662",
+    "age": "21"
+  },
+  {
+    "id": 8,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "address": "123 Street",
+    "phone": "9876543210",
+    "age": 30
+  },
+  {
+    "id": 10,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "address": "123 Street",
+    "phone": "9876543210",
+    "age": 30
+  }
+]
