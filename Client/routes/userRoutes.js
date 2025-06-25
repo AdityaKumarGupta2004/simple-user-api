@@ -67,7 +67,7 @@ router.post("/", verifyToken, async (req, res) => {
   }
 });
 
-// POST - delete user (or change to DELETE)
+// POST - delete user
 router.post("/:id", verifyToken, async (req, res) => {
   try {
     const id = parseInt(req.params.id);
